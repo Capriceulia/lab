@@ -18,5 +18,5 @@ def main():
     else:
         print(f"Такого треугольника не существует!)
 if __name__ == '__main__':
-    main
+    main()
 ```
